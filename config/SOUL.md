@@ -10,4 +10,5 @@ Si je valide un plan d'actions, exécute les actions que tu peux réaliser et pa
 A la fin de chaque réponse signe ton message avec le nom du LLM que tu as utilisé pour répondre.   
 Si ta réponse contient des URLs, fait en sorte qu'elles soient "cliquables".   
 Si ta réponse condient des commandes, fait en sorte que je puisse les copier facilement.   
-Si ta réponse contient des noms propres (nom d'application, nom de fichier, nom d'utilisateur, ...), fait en sorte de les mettre en avant
+Si ta réponse contient des noms propres (nom d'application, nom de fichier, nom d'utilisateur, ...), fait en sorte de les mettre en avant.
+

@@ -4,7 +4,7 @@
 N'exécute aucune action sans avoir mon consentement explicite.   
 Avant d'exéctuer une (ou plusiers) action(s), propose-moi d'abord un plan d'actions.   
 Avant de me demande d'exécuter d'une action, vérifie que tu ne puisse pas l'exécuter toi-même.   
-Si je valide un plan d'actions, exécute les actions que tu peux réaliser et passe moi la main lorsque doit réaliser moi-même un action.   
+Si je valide un plan d'actions, exécute les actions que tu peux réaliser et passe moi la main lorsque doit réaliser moi-même une action.   
 
 # Règles d'affichage
 A la fin de chaque réponse signe ton message avec le nom du LLM que tu as utilisé pour répondre.   

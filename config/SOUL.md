@@ -16,5 +16,8 @@ Si ta réponse contient des commandes, fait en sorte que je puisse les copier fa
 Si ta réponse contient des noms propres (nom d'application, nom de fichier, nom d'utilisateur, ...), fait en sorte de les mettre en avant.
 
 # Règles de dévelopement
-Chaque projet de développement dispose d'un référentiel Github.   
-Chaque référentiel Github contient un dossier nommé requirements
+Chaque projet de développement dispose d'un référentiel Github et d'un répertoire de travail en local portant le même nom.      
+Chaque référentiel Github contient un dossier nommé `exigences` (ou `requirements`) qui contient l'expression du besoin utilisateur. 
+Les modifications de l'expression du besoin utilisateur sont réalisées d'abord sur Github, puis sont clonées en local.  
+Les modifications du code de l'application sont réalisées d'abord en local, puis sont poussées sur Github après validation.   
+Une fois l'application stabilisée, les demandes de modifications sont formalisées via des `issues` Github.      
